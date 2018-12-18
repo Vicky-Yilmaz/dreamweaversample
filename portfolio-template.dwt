@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Sample Portfolio Website</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="../script.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="background-im">
+  <div class="container">
+	  
+    <header> <a href="../codes/index.html"><img src="../logo4.png" alt="" width="110" height="73" class="kapaliorta"></a>
+      <nav>
+        <div class="mobile-view"><img src="../burger-menu-grey.svg" alt="" width="25" class="expand"/></div>
+        <div class="desktop-view">
+          <ul>
+            <li><a href="../codes/aboutme.html">ABOUT ME</a></li>
+            <li><a href="#">CONTACT ME </a></li>
+          </ul>
+        </div>
+      </nav>
+      <!-- TemplateBeginEditable name="mainbody" -->
+      <main class="containerm"></main>
+      <!-- TemplateEndEditable -->
+      <footer>
+        <div class="divfoot1"><a href="#"><img src="../social-facebook.png" width="41" height="41" alt=""><img src="../social-twitter.png" width="41" height="41" alt=""><img src="../social-linkedin.png" width="41" height="41" alt=""><img src="../social-mail.png" width="41" height="41" alt=""></a></div>
+        <div class="divfoot2">Created by Vicky Yilmaz using Dreamweaver</div>
+      </footer>
+		
+    </header>
+	  
+  </div>
+</div>
+</body>
+</html>
